@@ -15,3 +15,6 @@ To install the pip requirements run
 `pip install -r /path/to/requirements.txt`
 
 Have fun and enjoy!
+
+Note: This project was developed before starting my computer science studies, at a time when I had minimal programming experience. It was created purely for practice and fun, to explore Python and get familiar with Pygame. The code may be messy and far from best practices — but I’ve kept it public to show progress and early learning.
+Feedback or improvements are always welcome!
